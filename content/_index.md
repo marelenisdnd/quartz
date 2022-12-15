@@ -8,8 +8,8 @@ enableToc: false
 Welcome to the homepage for the Marelenis D&D campaign.
 
 ### Main Menu
-- [Places](content/places/places.md)  
-- [Maps](content/maps/maps.md)  
+- [Places](places/places.md)  
+- [Maps](maps/maps.md)  
 
 
 

@@ -151,10 +151,10 @@
   },
   "active": "26861e31531594a0",
   "lastOpenFiles": [
-    "content/places/places.md",
-    "content/_index.md",
-    "content/maps/maps.md",
     "content/notes/config.md",
+    "content/_index.md",
+    "content/places/places.md",
+    "content/maps/maps.md",
     "content/notes/docker.md",
     "content/notes/editing.md",
     "content/templates/post.md",
