@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-git:commit": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

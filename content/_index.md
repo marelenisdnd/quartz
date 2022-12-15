@@ -3,10 +3,11 @@ title: Marelenis
 enableToc: false
 ---
 
-Test edit for Obsidian git.  Does it work?
+# A players guide to adventures in Marelenis
 
 Welcome to the homepage for the Marelenis D&D campaign.
 
+## World Map
 ![worldmaplargecoloured.jpg](worldmaplargecoloured.jpg)
 
 Can a map appear here?  Let's find out!
