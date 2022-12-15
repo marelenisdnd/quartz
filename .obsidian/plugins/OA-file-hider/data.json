@@ -1,0 +1,14 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "assets",
+    "data",
+    "i18n",
+    "layouts",
+    "resources",
+    "static",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "screenshot.png"
+  ]
+}
