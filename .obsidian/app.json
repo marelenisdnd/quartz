@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }
