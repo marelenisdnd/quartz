@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26861e31531594a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c0b8c77f17a299f",
+  "active": "26861e31531594a0",
   "lastOpenFiles": [
-    "content/notes/config.md",
+    "content/maps/maps.md",
     "content/_index.md",
+    "content/notes/config.md",
     "content/notes/docker.md",
     "content/places/places.md",
     "content/notes/editing.md",
