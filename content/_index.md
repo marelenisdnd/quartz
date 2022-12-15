@@ -7,7 +7,7 @@ enableToc: false
 
 Welcome to the homepage for the Marelenis D&D campaign.
 
-## World Map
+### World Map
 ![worldmaplargecoloured.jpg](worldmaplargecoloured.jpg)
 
 Can a map appear here?  Let's find out!

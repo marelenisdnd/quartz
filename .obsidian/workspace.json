@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/editing.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/editing.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/editing.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/editing.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,10 +138,12 @@
   },
   "active": "1c0b8c77f17a299f",
   "lastOpenFiles": [
-    "content/notes/docker.md",
     "content/notes/config.md",
+    "content/_index.md",
+    "content/notes/docker.md",
+    "content/places/places.md",
+    "content/notes/editing.md",
     "content/templates/post.md",
-    "content/private/private-note.md",
-    "content/_index.md"
+    "content/private/private-note.md"
   ]
 }
