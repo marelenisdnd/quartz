@@ -1,0 +1,3 @@
+# EXTRA DOMAIN (APG)
+REQUIREMENTS: Seasoned, Arcane Background (Miracles) or Cleric
+This cleric's deity smiles down upon her, granting divine strength. Select one additional domain listed under the character's deity. The cleric gains access to all powers on the list in addition to those in her starting domain. She also gains one power from the new domain (but must meet the new power's Requirements as usual).

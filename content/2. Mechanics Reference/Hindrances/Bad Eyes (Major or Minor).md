@@ -1,0 +1,2 @@
+BAD EYES (MINOR OR MAJOR)
+Your hero’s eyes aren’t what they used to be. The character suﬀers a −1 penalty to any Trait roll dependent on vision at a distance greater than 5" (10 yards), or −2 as a Major Hindrance. If eyeglasses are available, they negate the penalty when worn. If lost or broken during a combat (generally a 50% chance when he’s Wounded, falls, or suffers some other trauma), the character is Distracted (and Vulnerable if a Major Hindrance) until the end of his next turn.

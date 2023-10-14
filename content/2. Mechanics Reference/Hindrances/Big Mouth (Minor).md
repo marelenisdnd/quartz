@@ -1,0 +1,2 @@
+BIG MOUTH (MINOR)
+Loose lips sink ships, the saying goes. This hero’s mouth could drown an armada. These blabbermouths can’t keep a secret very well. They reveal plans and give away things best kept among friends, usually at the worst possible times.

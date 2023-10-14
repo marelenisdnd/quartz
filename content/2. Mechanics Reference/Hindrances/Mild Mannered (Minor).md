@@ -1,0 +1,2 @@
+MILD MANNERED (MINOR)
+Your milquetoast just isn’t threatening. Maybe the hero is a little doughy around the middle, has a kind face, or a soft voice. Whatever the issue, the character subtracts 2 when making Intimidation rolls.

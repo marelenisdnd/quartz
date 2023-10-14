@@ -1,0 +1,3 @@
+# INVESTIGATOR
+REQUIREMENTS: Novice, Smarts d8+, Academics d8+
+Investigators spend a great deal of time in vast libraries researching ancient legends, working the streets, or deducing Golarion’s greatest mysteries. They add +2 to Academics or Notice rolls made to sift through information, sift through stacks of papers, look through shelves of books for something of note, or spy obscured items from piles of junk or debris.

@@ -1,0 +1,3 @@
+ANIMAL HANDLING
+Pathfinders must frequently train, control, ride, or otherwise attempt to get creatures of animal intelligence to do their bidding. Rather than create a new skill that might conflict with others, we use Intimidation or Persuasion, depending on approach and demeanor.
+With success, the animal attempts to follow the instructions to the best of its ability. It's still just an animal though, so complex tasks are usually beyond its abilities to comprehend. Unlike influencing sentient creatures, a hero need not worry about speaking the same language as the animal. If he is able to speak to the animal, however, he adds +2 to the roll.

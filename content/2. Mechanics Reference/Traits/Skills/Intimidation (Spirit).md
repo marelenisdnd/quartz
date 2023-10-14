@@ -1,0 +1,5 @@
+INTIMIDATION (SPIRIT)
+Intimidation is the art of frightening an opponent so that he backs down, reveals information, or flees.
+Intimidation is an opposed roll resisted by the opponent’s Spirit. In combat, this is a Test (see page 140). Out of combat, a successful roll means the foe backs down for the most part, reveals some information, or slinks away when the opportunity presents itself. A raise might mean the target backs down for the remainder of the scene, spills all the beans, or runs away as fast as possible.
+In or out of combat, a Critical Failure on the roll means the target is immune to this character’s Intimidation attempts for the remainder of this encounter!
+**Networking:** Intimidation can also be used as a “macro” skill to simulate several hours of working the streets. See Networking on page 160 to see how to crack some heads for favors or information.

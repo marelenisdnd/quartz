@@ -1,0 +1,2 @@
+POVERTY (MINOR)
+It’s said fools and their money are soon parted. Your hero is one of them. The character starts with half the usual starting funds and just can’t seem to hang on to funds acquired after play begins. In general, the character halves the total funds every game week.

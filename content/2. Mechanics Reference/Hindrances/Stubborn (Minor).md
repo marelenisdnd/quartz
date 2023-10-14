@@ -1,0 +1,2 @@
+STUBBORN (MINOR)
+Stubborn individuals always want their way and never admit they’re wrong. Even when it’s painfully obvious they’ve made a mistake they try to justify it with half-truths and rationalizations.

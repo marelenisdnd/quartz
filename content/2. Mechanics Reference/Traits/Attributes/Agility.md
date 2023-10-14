@@ -1,0 +1,1 @@
+Agility is a measure of a character’s nimbleness, dexterity, and general coordination.

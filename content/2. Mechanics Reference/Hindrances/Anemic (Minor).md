@@ -1,0 +1,2 @@
+ANEMIC (MINOR)
+Anemic characters are particularly susceptible to sickness, disease, environmental effects, and some poisons. They subtract 2 from Vigor rolls made to resist poison, disease, and Fatigue from environmental hazards (see page 151).

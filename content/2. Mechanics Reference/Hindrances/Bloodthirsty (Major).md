@@ -1,0 +1,2 @@
+BLOODTHIRSTY (MAJOR)
+Your hero never takes prisoners unless under the direct supervision of a superior. This cold-blooded ruthlessness causes enemies to respond in kind, which often costs vital information, creates constant enemies, and may get the hero (and companions) in trouble with superiors or the authorities.

@@ -1,0 +1,4 @@
+# CHAMPION
+REQUIREMENTS: Novice, Spirit d8+, Fighting d6+
+Champions are holy (or unholy) men and women chosen to fight for a particular deity or religion. Most are pious souls ready and willing to lay down their lives for a greater cause, but some may have been born into the role and follow their path with some reluctance.
+Champions fight the forces of darkness (or good), adding +2 damage when attacking supernaturally evil (or good if they’re evil) creatures. The bonus applies to area effect damage, ranged attacks, powers, etc. The GM must decide which foes this bonus applies to, but generally it’s any evil (or good!) creature born of magic or with any supernatural abilities.

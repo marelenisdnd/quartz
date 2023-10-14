@@ -1,0 +1,2 @@
+SMALL (MINOR)
+This adventurer is very skinny, very short, or both. Size (see page 138) is reduced by 1, which reduces Toughness as well. A player character's Size can’t be reduced below −1, but the Toughness penalty remains. A Small halfling, for example, remains Size −1 and loses a point of Toughness.

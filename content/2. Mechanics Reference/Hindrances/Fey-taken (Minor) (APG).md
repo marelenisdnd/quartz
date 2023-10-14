@@ -1,0 +1,3 @@
+FEY–TAKEN (MINOR)
+As a child, you were whisked away by mischievous fey for a time. When you returned, you were ever after considered odd and distant. You long to return there, and find the mortal world dull and at times revolting, so you eat poorly and trust strange visions. 
+The character suffers a −2 penalty on rolls to resist disease and poison and on rolls to resist spells, abilities, and opposed Tests from Fey.

@@ -1,0 +1,2 @@
+CAN’T SWIM (MINOR)
+On Golarion, people who weren’t raised around a temperate body of water aren't likely to know how to swim. Those with this Hindrance suffer a −2 penalty to the Athletics skill when swimming, and each inch moved in water costs 3″ of Pace. See Movement (page 123) for more details and Drowning (page 151).

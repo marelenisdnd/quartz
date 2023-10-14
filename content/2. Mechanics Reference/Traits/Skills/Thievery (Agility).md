@@ -1,0 +1,5 @@
+THIEVERY (AGILITY)
+Lockpicking, safecracking, picking pockets, sleight of hand, setting and disabling traps, and similar acts of misdirection, sabotage, subterfuge, and manipulation are called Thievery.
+If used to pick a lock, crack a safe, disable a trap, or perform a simple unopposed action, success opens or disables the device, and a raise does it in less time, without tripping alarms, or whatever else the GM feels is appropriate.
+Sleight of hand, hiding or planting an item, or picking a pocket require a simple success. If foes are actively watching the character, Thievery is opposed by Notice.
+The Game Master should assign penalties for particularly difficult circumstances. Picking a heavy padlock might have a −4 penalty, while hiding a dagger in bulky winter clothing might grant a +2 bonus. Failure typically means the character is spotted or it takes too much time (after which the character can try again). A Critical Failure typically sets off the trap, alerts the victim, or jams the device so that it must be opened or interacted with in a different way.

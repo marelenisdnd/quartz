@@ -1,0 +1,4 @@
+HABIT (MINOR OR MAJOR)
+Your warrior has an annoying or dangerous compulsion. A Minor Habit irritates companions but isn’t dangerous. Maybe the character picks her nose, can’t stop fiddling with some item, says “ummm” in the middle of every sentence, or chews food with her mouth open.
+A Major Habit is a physical or mental addiction of some sort that is debilitating or possibly even deadly. This includes drug use, chronic drinking, or even a penchant for gambling with money stolen from allies. An addict who doesn’t get his fix must make a Vigor roll every 24 hours he goes without or take a level of Fatigue (see page 132).
+Once every 24 hours, a Healing roll with some sort of appropriate medicine removes one level of Fatigue for four hours. After that the Fatigue returns and can only be recovered with the addicting substance.

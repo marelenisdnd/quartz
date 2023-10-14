@@ -1,0 +1,3 @@
+DELUSIONAL (MINOR OR MAJOR)
+Your hero believes something considered quite strange by most others. Minor Delusions are harmless or the character generally keeps it to himself (the magistrate puts sleeping powder in the water supply, dogs can talk, we’re all just characters in some bizarre game, etc.).
+With a Major Delusion, the hero expresses opinions on the situation frequently and it can occasionally lead to danger (all potions are deadly, armor gives me hives, zombies are my friends).

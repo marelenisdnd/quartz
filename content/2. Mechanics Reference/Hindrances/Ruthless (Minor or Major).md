@@ -1,0 +1,2 @@
+RUTHLESS (MINOR OR MAJOR)
+These fanatics will do most anything to accomplish their goals. As a Major Hindrance, Ruthless characters are willing to harm anyone who gets in the way. As a Minor Hindrance, these heroes stop short of true harm to anyone except those who directly oppose them.

@@ -1,0 +1,3 @@
+SHORT SIGHTED (MINOR OR MAJOR)
+Some adventurers see things through to the end. Pulling at every thread, they won't consider something finished until they've exhausted every option. This is not your hero.
+A character with the Minor version of this Hindrance cannot spend Conviction to gain an extra use of once per encounter, session or day abilities. The Major version of this Hindrance allows Conviction to be spent for additional uses of abilities but makes the Conviction die a d4.

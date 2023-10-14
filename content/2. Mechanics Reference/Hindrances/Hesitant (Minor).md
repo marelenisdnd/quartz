@@ -1,0 +1,2 @@
+HESITANT (MINOR)
+Your hero hesitates in stressful situations. Draw two Action Cards in combat and act on the lowest. If you draw a Joker, use it normally and ignore the Hindrance for the round (hence this being a Minor Hindrance, it actually increases your chances of drawing a Joker!) Hesitant characters cannot take the Quick or Level Headed Edges.

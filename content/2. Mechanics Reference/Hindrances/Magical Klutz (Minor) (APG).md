@@ -1,0 +1,3 @@
+MAGICAL KLUTZ (MINOR)
+You were born in a place with a plethora of strangely interacting magic, and magic is dangerously eager to surge into action around you. Because of this, you must take extra care when using magic items, so they don't malfunction and cause you harm.
+Activating a magical item is a limited action instead of an action. If the magic item normally required a limited action, the character cannot take a Multi-Action.

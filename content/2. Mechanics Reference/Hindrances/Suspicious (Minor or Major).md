@@ -1,0 +1,2 @@
+SUSPICIOUS (MINOR OR MAJOR)
+Your character is suspicious of everyone. As a Minor Hindrance, this paranoia causes frequent trust issues. Suspicious characters might demand full payment before doing a task, want every agreement in writing, or believe even friends are out to get them. As a Major Hindrance, Support rolls to aid the distrustful individual are made at −2.

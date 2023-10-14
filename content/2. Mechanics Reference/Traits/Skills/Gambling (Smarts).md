@@ -1,0 +1,5 @@
+GAMBLING (SMARTS)
+Gambling is common in taverns, roadside inns, the barracks of most armies, or below decks of ships at sea. 
+To simulate an hour of gambling without having to roll for every single toss of the dice or hand of cards, have everyone agree on the stakes, such as 10 gold coins, etc. Everyone in the game then makes a Gambling roll. The lowest total pays the highest total the difference times the stake. The next lowest pays the second highest the difference times the stake, and so on. If there’s an odd man left in the middle, he breaks even. 
+**Example:** A rogue rolls highest with a 10 and the bard rolls lowest with a 4. The difference is 6, so the bard pays 6 × the stake of 10, or 60 gp. 
+**Cheating:** A character who cheats adds +2 to his roll. The GM may raise or lower this modifier depending on the particulars of the game or the method of cheating. If a cheater rolls a Critical Failure, however, she's caught. The consequences depend on the circumstances and who noticed, but are usually unpleasant!

@@ -1,0 +1,2 @@
+ACADEMICS (SMARTS)
+Academics reflects knowledge of the arts, history, archaeology, religion, and similar fields, or the ability to find that information. If an explorer wants to research when the Imperial Calendar began or cite a line from Azvadeva Pujila, or use his linguistic expertise to decipher a dead language, this is the skill to have.

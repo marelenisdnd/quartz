@@ -1,0 +1,2 @@
+ARROGANT (MAJOR)
+Arrogant heroes don’t think they are the best— they know it. Whether it’s swordsmanship, oration or painting, these characters flaunt their prowess every chance they get. Winning isn’t enough for this champion. She wants to dominate opponents and prove there’s no one better. Arrogant individuals look for the greatest threat in battle, taking on lesser minions only because they’re in the way.

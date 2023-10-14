@@ -1,0 +1,3 @@
+CONSTRICTED (MINOR)
+Some people can't handle the restrictive and confining nature of armor. The tight grip of leather and suffocating helms cause them to panic.
+This character gains Armor Restriction (Medium) on one of her Class Edges. If she already has an Armor Restriction from another source, increase her existing Restriction (Medium is increased to Light and Light is increased to Any) to a max of Armor Restriction (Any).

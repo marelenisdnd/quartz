@@ -1,0 +1,5 @@
+SLOW (MINOR OR MAJOR)
+A disability or past injury has hindered this adventurer's mobility. As a Minor Hindrance, reduce Pace by 1 and the running die one step (if already d4, reduce to d4 − 1 ). As a Major Hindrance, reduce the running die a step, reduce Pace by 2, and subtract 2 from Athletics rolls and rolls to resist Athletics (such as Tests or Grappling).
+Slow characters may not take the Fleet- Footed Edge.
+**Prosthesis:** A character with the Minor version of this Hindrance may have a prosthesis. If the prosthesis is lost, he suffers the effects of the Major version of Slow.
+**Wheelchairs:** Wheelchairs are available in more enlightened areas of Golarion. Slow heroes may start with a manual wheelchair at no cost (100 gp to replace thereafter). Wheelchairs require reasonably smooth ground to operate on and have a Pace equal to half the user's Athletics die (max of 3, he cannot run).

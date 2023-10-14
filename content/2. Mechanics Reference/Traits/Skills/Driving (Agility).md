@@ -1,0 +1,2 @@
+DRIVING (AGILITY)
+Although rare on Golarion, Driving allows a hero to control any powered ground vehicle. Self-powered transports use Athletics, while beast-drawn conveyances use Riding. Driving rolls are typically only needed in dangerous or stressful conditions, such as chases or when navigating dangerous roads or attempting to race through crowded city streets.

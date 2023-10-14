@@ -1,0 +1,3 @@
+# MARKSMAN
+REQUIREMENTS: Seasoned, Athletics d8+ or Shooting d8+
+The hero is a natural with ranged weapons. If she doesn’t move in a turn and fires no more than a Rate of Fire of 1 as her first action, she may add +1 to an Athletics (throwing) or Shooting roll, or ignore up to 2 points of penalties from Called Shots, Cover, Range, Scale, or Speed. This is a lesser version of the Aim maneuver and does not stack with it. Marksman doesn’t apply to additional attacks after the first in a turn, including those fired with the Rapid Shot Edge or similar abilities.

@@ -1,0 +1,2 @@
+CODE OF HONOR (MAJOR)
+Honor is very important to your character. She keeps her word, doesn’t abuse or kill prisoners, and generally tries to treat others with due respect. She may have a prescribed code of conduct in line with the mores of a particular deity, cause, or social order.

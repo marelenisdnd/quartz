@@ -1,0 +1,3 @@
+# TOUCH OF SERENITY
+REQUIREMENTS: Seasoned, Spirit d8+, Unarmed Strike, Fighting d8+
+With a single touch you can reduce the threat of even the most savage of foes. Once per encounter, after making a successful Fighting attack, the warrior may forfeit damage and all other effects to cause a state of temporary serenity in his foe. Until the end of the character's next turn, the target cannot take any hostile actions (offensive spells, attacks, Tests, etc.). This also ends the target's Rage if he has that ability.

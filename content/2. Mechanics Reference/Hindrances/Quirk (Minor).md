@@ -1,0 +1,2 @@
+QUIRK (MINOR)
+This individual has some minor foible that is usually humorous but can occasionally cause real trouble. A swashbuckler may always try to slash a mark on foes, a dwarf may brag constantly about dwarven culture, or a snobby débutante might not eat, drink, or socialize with the lower class, for example.

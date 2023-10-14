@@ -1,0 +1,2 @@
+RIDING (AGILITY)
+Riding allows a hero to mount, control, and ride any beast or beast-drawn vehicle. This includes horses, camels, dragons, wagons, chariots, and the like. See the rules for Mounted Combat on page 135.

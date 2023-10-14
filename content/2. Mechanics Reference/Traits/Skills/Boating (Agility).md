@@ -1,0 +1,2 @@
+BOATING (AGILITY)
+Characters with this skill can handle most any common waterborne boat or ship. They also know how to handle common tasks associated with their vessel such as tying knots, rigging sails, or following currents.

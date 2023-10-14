@@ -1,0 +1,37 @@
+![[Dwarf.png|right|200]]
+
+# DWARVES
+Dwarves are a stoic but stern people, ensconced in cities carved from the hearts of mountains and fiercely determined to repel enemies, like orcs and goblins. Dwarves have acquired a reputation as dour and humorless artisans of the earth. It could be said their history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other such horrors. Dwarves are lovers of history and tradition, and their long lifespans leads to far less in the way of generational shifts in attitudes, styles, fashions, and trends. If a thing is not broken, they do not fix it or change it; and if it is broken, they fix it rather than replace it. Thrifty as a rule, dwarves are loath to discard anything unless it is truly ruined and unable to be fixed. At the same time, dwarves’ meticulous, near-obsessive attention to detail and durability in their craftsmanship makes that a rare occurrence, as the things they make are built to last. As a result, virtually everything made by dwarves still sees regular use at an age when such items would be relegated to museum pieces, dusty antique shelves, or junkyard fodder by other ancestries. Together, these traits create the impression that dwarves are a people frozen in time. Nothing could be further from the truth, as dwarves are both thoughtful and imaginative, willing to experiment, if keen to refine and perfect a new technique or product before moving on. Dwarves have achieved feats of metallurgy, stonework, and engineering that have consistently outpaced the advances of other societies, though some non-dwarves have used magic to supplement and perfect their own creations to achieve the same ends. They're also typified by stubborn courage and dedication to seeing tasks through to completion, whatever the risks. These traits led dwarves to explore and settle in environments that would cause others to retreat. From the depths of the underworld to the highest mountain peaks, from rusting iron citadels along rocky coasts to squat jungle ziggurats, dwarves have established their enclaves and redoubts, holding them against all comers or perishing to the last and leaving only their enduring monuments. It is said that dwarves are not venturesome or inventive, although, in reality they maintain a focus on and dedication to each task they undertake and vet changes thoroughly before adopting them wholeheartedly. When faced with new circumstances and new needs, they react by applying tried and true tools and techniques systematically, using existing methods whenever possible. If necessity requires, they throw themselves with equal vigor into developing the next perfect procedure for demolishing the obstacles that get in their way. Once their desired goal is obtained, they focus on consolidating each new piece of territory or conceptual advance. Dwarves thus rarely overextend themselves, but they also may miss opportunities to seize the initiative and maximize the advantages they create.
+
+### PHYSICAL DESCRIPTION 
+Dwarves are short and stocky, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. They pride themselves on the long length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness, or worse—no one familiar with their culture trusts a beardless dwarven man.
+
+### SOCIETY 
+The distances between dwarves’ mountain citadels account for many of the cultural differences within their society. Despite these schisms, dwarves are characterized by their love of stonework, passion for stone- and metalbased craftsmanship and architecture, and their fierce hatred of giants, orcs, and goblinoids. In some remote enclaves where these enemies are uncommon or unheard of, dwarves’ fixation on security combined with their pugnacious nature leads them to find enemies or at least rivals wherever they settle. While they are not militaristic, they learned long ago that those without axes can be hewn apart by them, and thus all dwarves are schooled to be ready to enforce their rights and claims by force. When their patience with diplomacy is exhausted, dwarves adopt what they call “aggressive negotiations.” Dwarves are driven by honor and tradition. While they are often stereotyped as standoffish, they have a strong sense of friendship and justice, and those who win their trust understand that while they work hard, they play even harder—especially when good ale is involved. 
+
+**Relations:** Dwarves and orcs have long dwelt in proximity to one another, and share a long history of violence. Dwarves generally distrust and shun half-orcs. They find elves, gnomes, and halflings to be too frail, flighty, or “pretty” to be worthy of proper respect. It is with humans that dwarves share the strongest link, for humans’ industrious nature and hearty appetites come closest to matching those of the dwarven ideal.
+
+### ADVENTURERS
+Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels.
+
+**Languages:** Common and Dwarven. 
+**Age Range:** Adult 45, old age 188, max age 250 -450. 
+**Dwarf Males:** Height 3'11-4'5 and weight 164-206 (Average 4'2" , 185 lbs). 
+**Dwarf Females:** Height: 3'9"-4'3" and weight 134-176 (Average 4'0", 165 lbs). 
+
+- **DARKVISION:** Dwarven eyes are accustomed to the dark of the underearth. Dwarves ignore penalties for Illumination up to 10” (20 yards). 
+
+ -  **IRON CONSTITUTION:** Dwarves add +1 when resisting poison. They also add +1 when resisting or recovering from powers or abilities that state they work like a power. 
+
+ - **REDUCED PACE**: Decrease the character’s Pace by 1 and reduce the running die by one die type. 
+
+ - **STONECUNNING:** Dwarves grow up in halls and caverns of worked stone, and get a Notice roll at +2 as a free action within 10 feet of unusual stonework such as traps and hidden doors. Success means they know something is off, and a raise gives them more specific information such as how to trigger the trap or open the door. 
+
+ - **TOUGH:** Stout and tough, Dwarves start with a d6 in Vigor instead of a d4. This increases maximum Vigor to d12 + 1. They treat their Strength as one die type higher when determining Encumbrance (see page 104) and Minimum Strength to use armor and equipment without penalty (but not weapons). This ability stacks with the Brawny Edge if the dwarf has it.
+
+#### ALTERNATE ANCESTRAL ABILITIES
+ - **MINESIGHT:** Dwarves with this ability gain Night Vision; however, they are automatically Shaken when exposed to bright light and suffer −1 on sight-based rolls while remaining in bright light. This replaces Darkvision. 
+
+ - **ROCK STEPPER:** Dwarves with this ability can skillfully negotiate rocky terrain. They can ignore Difficult Ground created by rubble, broken ground, steep stairs or similar effects. This ability replaces Stonecunning. 
+
+ - **STONESINGER:** Some dwarves’ affinity for the earth grants them greater powers. When spending a Benny to reroll arcane skill rolls, add +2 to the total. This only applies when activating a power with an earth or stone Trapping. This replaces Stonecunning.

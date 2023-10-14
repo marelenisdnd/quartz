@@ -1,0 +1,4 @@
+OCCULT (SMARTS)
+Occult reflects knowledge and experience of magical and supernatural events, processes, items, and creatures.
+It can be used to decipher glyphs, recall information about Golarion's monsters, recall cures for supernatural maladies like lycanthropy or vampirism, and so on. Finding information in a library, a wizard’s lair, or in an old dusty tome uses the Academics skill. If the investigator’s Occult skill is higher, she may use that instead. See Academics on page 33.
+Some esoteric information will be familiar to people with certain skills. If the situation warrants (and with the GM's permission), you may substitute Faith or Spellcasting in place of Occult.

@@ -1,0 +1,1 @@
+Vigor represents an individual’s endurance, resistance to disease, poison, or toxins, and how much physical damage heroes can take before they can’t go on. It is most often used to resist Fatigue effects, and as the basis for the derived stat of Toughness.

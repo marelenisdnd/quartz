@@ -1,0 +1,2 @@
+TAINTED SPIRIT (MAJOR)
+As a child, a parent or other person with authority over you made a pact with a fiend, stealing some of your vitality as collateral. Immediately after combat ends, this character makes a Vigor roll or suffers a level of Fatigue. This Fatigue lasts until the character spends 24 hours without getting into combat.

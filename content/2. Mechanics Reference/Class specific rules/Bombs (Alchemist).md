@@ -1,0 +1,5 @@
+# BOMBS
+Alchemists can swiftly mix jars and vials of volatile chemicals from their alchemist's kits and turn them into hasty explosives.
+Creating an alchemist's bomb and throwing it is a limited action that costs two Power Points and uses the Alchemy skill. Alchemical bombs have a Range of 10" (20 yards) and cause 2d6 Damage in a Small Blast Template. The alchemist can spend +1 Power Point to increase the damage to 3d6 and +1 Power Point to change his bomb to a Medium Blast Template.
+An alchemist's bombs are an extension of their own personal magic and must be used instantly—they cannot be stored or given to others. They aren't powers, and can't use the Selective Power Modifier (although they can use other Power Modifiers, such as Lingering Damage)—allies must beware getting caught in the splash zone!
+A Critical Failure when creating a bomb means the alchemist has run out of volatile chemicals and cannot use this ability again until he refreshes his supplies (in a shop, a few hours gathering ingredients and a Survival roll, etc.).

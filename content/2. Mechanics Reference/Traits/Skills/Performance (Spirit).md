@@ -1,0 +1,6 @@
+PERFORMANCE (SPIRIT)
+A good entertainer can lift spirits, rally a crowd to action, or simply earn a few coins from the locals. Specifics depend on the situation, setting, and how well the character is known in the area.
+Performance covers singing, acting, playing an instrument, or similar tasks that require an audience to appreciate. It is also the arcane skill used by bards.
+**Raising Funds:** The amount of money a character can raise by performing is extremely subjective, but as a general rule a successful performance earns 50 gp × the character's Rank (Novice 1, Seasoned 2, 3 for Veteran, 4 for Heroic, and 5 for Legendary). A raise doubles the amount earned.
+If the performer has built up a solid reputation in the area or the venue is particularly large, the GM should increase the base gp value appropriately.
+**Deception:** Performance can be used instead of Persuasion if the character is attempting to deceive, bluff, or disguise herself and the GM agrees it makes sense in the context of the situation.

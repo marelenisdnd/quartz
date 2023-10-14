@@ -1,0 +1,2 @@
+GREEDY (MINOR OR MAJOR)
+A miser measures worth in material possessions or wealth. If a Minor Hindrance, the character argues bitterly for more than a fair share of any loot or reward the party might come across. As a Major Hindrance, he fights over anything that seems unfair, and may even kill for it.

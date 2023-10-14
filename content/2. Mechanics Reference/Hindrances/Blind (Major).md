@@ -1,0 +1,2 @@
+BLIND (MAJOR)
+The individual is completely without sight, and suffers a −6 to all physical tasks that require vision (GM’s call). On the plus side, Blind characters gain their choice of a free Edge to compensate for this particularly difficult Hindrance.

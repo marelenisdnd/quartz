@@ -1,0 +1,7 @@
+FAME
+REQUIREMENTS: Novice
+Your character is a minor celebrity of some sort. She might be a popular bard in a small fiefdom, a warrior who saved the town, or a beloved wizard who entertains children. She makes double the normal fee when performing for pay (see Performance, page 35). She can also use her celebrity to add +1 to Persuasion rolls if a target is friendly and knows who she is (a Common Knowledge roll modified by how likely the individual is to know the celebrity). The downside of Fame is that the individual is often recognized, others frequently want something from her, she may be followed by fans or admirers, or she may not be able to shirk obligations, performances, or other duties without causing trouble for herself.
+
+*FAMOUS*
+REQUIREMENTS: Seasoned, Fame
+Your hero is truly famous. She’s well-known in a large circle such as a city, kingdom, or a popular traveling road show. She makes 5× the normal fee when performing and adds +2 to Persuasion rolls when influencing friendly individuals who know who she is. The price is higher for the truly Famous, too, with more demands on her time, obligations, rivals, scandals, and an inability to operate in crowds without being recognized.

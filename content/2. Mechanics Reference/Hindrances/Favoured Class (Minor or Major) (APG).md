@@ -1,0 +1,3 @@
+FAVORED CLASS (MINOR/MAJOR)
+Whenever your hero commits to something, she sees it through to the end, even to the exclusion of other studies.
+A character with the Minor version selects one core Class Edge. Increase all Trait Requirements one die type for all other Class Edges and Prestige Edges. A character with the Major version of this Hindrance can only have one core Class Edge and cannot take any Prestige Edges.

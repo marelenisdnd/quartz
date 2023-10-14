@@ -1,0 +1,2 @@
+HARD OF HEARING (MINOR OR MAJOR)
+As a Minor Hindrance, characters who've lost some of their hearing subtract 4 from Notice rolls made where hearing is involved. A Major Hindrance means the character is deaf. She cannot hear and automatically fails all Notice rolls that depend on being able to detect sound.

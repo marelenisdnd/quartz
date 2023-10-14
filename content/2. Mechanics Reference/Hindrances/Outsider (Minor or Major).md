@@ -1,0 +1,3 @@
+OUTSIDER (MINOR OR MAJOR)
+For reasons having little or nothing to do with the character’s actions or behavior, she isn’t accepted in many societies on Golarion. Locals are likely to raise prices on the individual, ignore pleas for help, and generally treat her poorly.
+Outsiders subtract 2 from Persuasion rolls made to influence those who aren’t their own kind. The Major version means most locals are Unfriendly and bullies are likely to pick fights with her.

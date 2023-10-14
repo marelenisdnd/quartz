@@ -1,0 +1,3 @@
+OBESE (MINOR)
+Those who carry their weight well have the Brawny Edge. Those who don’t might be Obese. A character cannot be both Brawny and Obese, and this Hindrance can’t increase your Size above +3.
+An Obese hero’s Size (and therefore Toughness) increase by +1. Reduce Pace by 1, and decrease the running die one die type (minimum d4). Strength is considered one die type less (minimum d4) for armor and worn gear (not weapons). The hero may also have difficulty finding armor or clothing that fits or entering confined spaces—GM's call, but tight dungeon corridors, twisting caverns, and the like are all likely to cause the hero problems.

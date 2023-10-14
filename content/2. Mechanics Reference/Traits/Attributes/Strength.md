@@ -1,0 +1,1 @@
+Strength is physical power and fitness. It’s also used as the basis of a warrior’s damage in hand-to-hand combat, and to determine how much he can wear or carry.

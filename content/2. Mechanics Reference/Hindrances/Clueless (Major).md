@@ -1,0 +1,2 @@
+CLUELESS (MAJOR)
+Clueless heroes don’t pay much attention to the world around them and can’t seem to find a haystack in a small pile of needles. The character suffers a −1 penalty to Common Knowledge and Notice rolls.

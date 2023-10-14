@@ -1,0 +1,3 @@
+DRIVEN (MINOR OR MAJOR)
+A vow is a commitment to others—driven characters want something for themselves. It may be to protect the realm, prove you’re the best knucklebones player in the kingdom, or the best equestrian on Golarion.
+The Minor version shapes the character and influences decisions but either happens rarely or is fairly harmless. As a Major Hindrance it’s an overriding desire that comes up frequently or causes peril for the hero and companions.

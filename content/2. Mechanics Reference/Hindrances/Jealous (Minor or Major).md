@@ -1,0 +1,3 @@
+JEALOUS (MINOR OR MAJOR)
+Insecurity leads to envy of others’ accomplishments or belongings. Such individuals complain, pout, and claim credit for other’s accomplishments.
+As a Minor Hindrance, the character’s jealousy is focused on one particular subject (such as an “unrivaled” skill or a romantic interest), or comes up rarely. As a Major Hindrance, the character is jealous of anyone and everyone that outshines them. He consistently bad-mouths rivals, tries to upstage them, or actively plots to discredit anyone who threatens his ego.

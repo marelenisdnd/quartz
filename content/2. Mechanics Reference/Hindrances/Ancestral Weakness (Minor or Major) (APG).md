@@ -1,0 +1,3 @@
+ANCESTRAL WEAKNESS (MINOR/MAJOR)
+Some families can trace their bloodline back far enough to find an ancestor who was from another plane. Every so often, a descendant is born with a strange weakness or trait tied to this long forgotten ancestor.
+Select one of the following: Fire, Cold, or Electricity. With the Minor version of this Hindrance this character suffers +2 damage from attacks of this type. The Major version increases this to +4 damage.

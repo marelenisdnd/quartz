@@ -1,0 +1,2 @@
+TIMID (MAJOR)
+Not everyone has ice water in their veins. Your hero is squeamish at the sight of blood and gore and terrified of coming to harm. Subtract 2 from Fear checks as well as rolls to resist Intimidation.

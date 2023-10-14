@@ -1,0 +1,1 @@
+Spirit is self-confidence, backbone, and willpower. It’s used to resist social and supernatural attacks as well as fear.

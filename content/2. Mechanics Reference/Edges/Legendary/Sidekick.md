@@ -1,0 +1,4 @@
+# SIDEKICK
+REQUIREMENTS: Wild Card, Legendary
+A character who triumphs over evil time and time again becomes an inspiration to others. Eventually, one of these young crusaders may attempt to join the hero’s epic quests.
+The hero gains a Novice Rank sidekick. The sidekick is a Wild Card, starts each session with two Bennies, may Advance, and has abilities that complement his mentor. The player character controls his sidekick just like any other ally, though he may occasionally cause trouble by getting captured, running into danger when he’s not supposed to, and so on. The player should be prepared for this Edge to occasionally become a Hindrance! If the sidekick dies, he isn’t replaced unless the hero chooses this Edge again. Fortunately, heroes may always spend Bennies for their sidekicks as if they had the Common Bond Edge. Sidekicks must actually take that Edge to do the same for their mentors.

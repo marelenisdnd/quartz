@@ -1,0 +1,3 @@
+WANTED (MINOR OR MAJOR)
+Your hero has committed some crime and will be arrested if discovered by the authorities. The level of the Hindrance depends on how serious the crime was and how active the hunters are. A hero accused of theft may have only a Minor Hindrance, as might someone wanted for more serious crimes away from the main campaign area.
+Being accused of murder is a Major Hindrance in the “civilized” societies on Golarion if there’s someone around to seek justice (or vengeance).
