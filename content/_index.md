@@ -10,7 +10,7 @@ Welcome to the homepage for the Marelenis D&D campaign.
 ### Main Menu
 - [Places](places/places.md)  
 - [Maps](maps/maps.md)
-- [Classes](2. Mechanics Reference/Edges/Class.md)
+- [Classes](swpf/Edges/Class.md)
 
 
 

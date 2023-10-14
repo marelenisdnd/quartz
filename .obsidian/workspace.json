@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2. Mechanics Reference/Edges/Class.md",
+                "file": "content/_index.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ccb560598c44806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/swpf/Edges/Class/Alchemist.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2. Mechanics Reference/Edges/Class.md",
+                "file": "content/swpf/Edges/Class/Alchemist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2. Mechanics Reference/Edges/Class.md",
+                "file": "content/swpf/Edges/Class/Alchemist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2. Mechanics Reference/Edges/Class.md"
+                "file": "content/swpf/Edges/Class/Alchemist.md"
               }
             }
           }
@@ -179,43 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7af444d863eea9",
+  "active": "0ccb560598c44806",
   "lastOpenFiles": [
+    "content/swpf/Edges/Class.md",
     "content/_index.md",
-    "content/2. Mechanics Reference/Edges/Class.md",
+    "content/maps/maps.md",
     "2..md",
-    "content/2. Mechanics Reference/Traits/Skills/Thievery (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Taunt (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Survival (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Stealth (Agility) (Core).md",
-    "content/2. Mechanics Reference/Traits/Skills/Spellcasting (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Shooting (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Repair (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Science (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Riding (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Persuasion (Spirit) (Core).md",
-    "content/2. Mechanics Reference/Traits/Skills/Piloting (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Performance (Spirit).md",
-    "content/2. Mechanics Reference/Traits/Skills/Occult (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Notice (Smarts) (Core).md",
-    "content/2. Mechanics Reference/Traits/Skills/Intimidation (Spirit).md",
-    "content/2. Mechanics Reference/Traits/Skills/Healing (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Gambling (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills/Fighting (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Faith (Spirit).md",
-    "content/2. Mechanics Reference/Traits/Skills/Driving (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Common Knowledge (Smarts) (Core).md",
-    "content/2. Mechanics Reference/Traits/Skills/Boating (Agility).md",
-    "content/2. Mechanics Reference/Traits/Skills/Battle (Smarts).md",
-    "content/2. Mechanics Reference/Traits/Skills",
-    "content/2. Mechanics Reference/Traits/Attributes",
-    "content/2. Mechanics Reference/Traits",
-    "content/2. Mechanics Reference/Hindrances",
-    "content/2. Mechanics Reference/Gear",
-    "content/2. Mechanics Reference/Edges/Weird",
-    "content/2. Mechanics Reference/Edges/Social",
-    "content/2. Mechanics Reference/Edges/Professional",
-    "content/2. Mechanics Reference/Edges/Prestige",
-    "content/2. Mechanics Reference/Edges/Power"
+    "content/swpf/Traits/Skills/Thievery (Agility).md",
+    "content/swpf/Traits/Skills/Taunt (Smarts).md",
+    "content/swpf/Traits/Skills/Survival (Smarts).md",
+    "content/swpf/Traits/Skills/Stealth (Agility) (Core).md",
+    "content/swpf/Traits/Skills/Spellcasting (Smarts).md",
+    "content/swpf/Traits/Skills/Shooting (Agility).md",
+    "content/swpf/Traits/Skills/Repair (Smarts).md",
+    "content/swpf/Traits/Skills/Science (Smarts).md",
+    "content/swpf/Traits/Skills/Riding (Agility).md",
+    "content/swpf/Traits/Skills/Persuasion (Spirit) (Core).md",
+    "content/swpf/Traits/Skills/Piloting (Agility).md",
+    "content/swpf/Traits/Skills/Performance (Spirit).md",
+    "content/swpf/Traits/Skills/Occult (Smarts).md",
+    "content/swpf/Traits/Skills/Notice (Smarts) (Core).md",
+    "content/swpf/Traits/Skills/Intimidation (Spirit).md",
+    "content/swpf/Traits/Skills/Healing (Smarts).md",
+    "content/swpf/Traits/Skills/Gambling (Smarts).md",
+    "content/swpf/Traits/Skills/Fighting (Agility).md",
+    "content/swpf/Traits/Skills/Faith (Spirit).md",
+    "content/swpf/Traits/Skills/Driving (Agility).md",
+    "content/swpf/Traits/Skills/Common Knowledge (Smarts) (Core).md",
+    "content/swpf/Traits/Skills/Boating (Agility).md",
+    "content/swpf/Traits/Skills",
+    "content/swpf/Traits/Attributes",
+    "content/swpf/Traits",
+    "content/swpf/Hindrances",
+    "content/swpf/Gear",
+    "content/swpf/Edges/Weird",
+    "content/swpf/Edges/Social",
+    "content/swpf/Edges/Professional",
+    "content/swpf/Edges/Prestige",
+    "content/swpf/Edges/Power"
   ]
 }

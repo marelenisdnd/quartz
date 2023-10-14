@@ -23,4 +23,4 @@ The cleric has great familiarity with some of her core powers and can cast them 
 REQUIREMENTS: Heroic, Cleric
 Deities reward their clerics with additional power and energy to power their miracles. A cleric who takes this Edge gains access to all her powers’ Epic Power Modifiers (see page 175).
 
-![[Domains (Cleric)]]
+![[content/swpf/Class specific rules/Domains (Cleric)]]
